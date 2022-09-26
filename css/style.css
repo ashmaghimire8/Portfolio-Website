@@ -62,7 +62,7 @@ section{
 
 #home{
     
-    background: linear-gradient(#787d895e,#f2bac923), url(/img/comp.png);
+    background: linear-gradient(#787d895e,#f2bac923), url(../img/comp.png);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
